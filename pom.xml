@@ -36,4 +36,10 @@
          </plugin>
       </plugins>
    </build>
+<distributionManagement>
+  <repository>
+    <id>releases</id>
+    <url>http://http://13.233.128.158:8081/nexus/content/repositories/releases</url>
+  </repository>
+</distributionManagement>
 </project>
