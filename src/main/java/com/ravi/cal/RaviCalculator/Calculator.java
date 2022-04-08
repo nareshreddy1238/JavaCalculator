@@ -1,4 +1,4 @@
-package com.ravi.cal.RaviCalculator;
+package com.nani.cal.RaviCalculator;
 
 public class Calculator {
 
